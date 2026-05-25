@@ -40,7 +40,9 @@ body {
   font-family: sans-serif;
   overflow-x: hidden;
   overflow-y: scroll;
-  font-family: 'Source Sans Pro', sans-serif; }
+  font-family: 'Source Sans Pro', sans-serif;
+  zoom: 0.9;
+}
 
 a {
   text-decoration: none;
